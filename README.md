@@ -1,4 +1,4 @@
-[200~# Section 3: EC2 Fundamentals - Terraform Lab
+# Section 3: EC2 Fundamentals - Terraform Lab
 
 Companion Terraform build for Section 3 (EC2 Fundamentals) of Stephane Maarek's
 AWS SAA-C03 course. Each console-based lab in the section was first done manually
